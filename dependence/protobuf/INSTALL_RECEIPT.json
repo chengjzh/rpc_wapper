@@ -1,0 +1,46 @@
+{
+  "homebrew_version": "3.5.4-74-g8dc46a7",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "lib/pkgconfig/protobuf-lite.pc",
+    "lib/pkgconfig/protobuf.pc"
+  ],
+  "time": 1658124035,
+  "source_modified_time": 1657148697,
+  "compiler": "clang",
+  "aliases": [
+    "protobuf@21.2"
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "21.2",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/protobuf.rb",
+    "tap_git_head": "66e214d16429c7196353e88d6b367695dc4ea0e9",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12",
+    "cpu_family": "penryn",
+    "xcode": "13.4",
+    "clt": "13.4.0.0.1.1651278267",
+    "preferred_perl": "5.30"
+  }
+}
